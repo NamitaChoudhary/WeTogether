@@ -1,12 +1,14 @@
+import Profile from "./pages/profile/Profile";
 
 
 function App() {
   return (
-    <div >
+  
+      <Profile/>
 
-     Let's Build Together........... :)
+    
      
-    </div>
+   
   );
 }
 
